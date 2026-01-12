@@ -1,0 +1,208 @@
+using System;
+using System.Collections.Generic;
+ 
+class CalculadoraLista
+{
+    private List<int> numeros;
+
+    public CalculadoraLista()
+    {
+        numeros = new List<int>();
+    }
+
+    public void AgregarNumero(int n)
+    {
+        numeros.Add(n);
+    }
+
+    public int Sumar()
+    {
+        int total = 0;
+        foreach (int n in numeros)
+            total += n;
+        return total;
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        var lista = new CalculadoraLista();
+        Console.Write("Cuantos numeros quieres agregar? ");
+        int cantidad = int.Parse(Console.ReadLine());
+
+        for (int i = 0; i < cantidad; i++)
+        {
+            Console.Write($"Numero {i + 1}: ");
+            int n = int.Parse(Console.ReadLine());
+            lista.AgregarNumero(n);
+        }
+
+        Console.WriteLine($"La suma total es: {lista.Sumar()}");
+    }
+}
+
+
+
+
+
+
+using System;
+using System.Collections.Generic;
+
+class InvertirLista
+{
+    public static List<T> Invertir<T>(List<T> original)
+    {
+        List<T> invertida = new List<T>(original);
+        invertida.Reverse();
+        return invertida;
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        List<string> lista = new List<string>();
+        Console.Write("Cantidad de elementos: ");
+        int n = int.Parse(Console.ReadLine());
+
+        for (int i = 0; i < n; i++)
+        {
+            Console.Write($"Elemento {i + 1}: ");
+            lista.Add(Console.ReadLine());
+        }
+
+        var rev = InvertirLista.Invertir(lista);
+        Console.WriteLine("Lista invertida:");
+        rev.ForEach(Console.WriteLine);
+    }
+}
+
+
+
+
+
+
+using System;
+using System.Collections.Generic;
+
+class ListaSinDuplicados
+{
+    public static List<T> EliminarDuplicados<T>(List<T> items)
+    {
+        HashSet<T> seen = new HashSet<T>();
+        List<T> limpia = new List<T>();
+
+        foreach (T item in items)
+        {
+            if (seen.Add(item))
+                limpia.Add(item);
+        }
+        return limpia;
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        List<int> lista = new List<int>();
+        Console.Write("Cuantos numeros?: ");
+        int n = int.Parse(Console.ReadLine());
+
+        while (n-- > 0)
+        {
+            Console.Write("Numero: ");
+            lista.Add(int.Parse(Console.ReadLine()));
+        }
+
+        var sinDup = ListaSinDuplicados.EliminarDuplicados(lista);
+        Console.WriteLine("Resultado:");
+        sinDup.ForEach(Console.WriteLine);
+    }
+}
+
+
+
+
+
+using System;
+using System.Collections.Generic;
+
+class ContadorImpares
+{
+    public int Contar(List<int> nums)
+    {
+        int count = 0;
+        foreach (int n in nums)
+            if (n % 2 != 0)
+                count++;
+        return count;
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        List<int> nums = new List<int>();
+        Console.Write("Cuantos digitos?: ");
+        int n = int.Parse(Console.ReadLine());
+
+        for (int i = 0; i < n; i++)
+        {
+            nums.Add(int.Parse(Console.ReadLine()));
+        }
+
+        var contador = new ContadorImpares();
+        Console.WriteLine($"Impares: {contador.Contar(nums)}");
+    }
+}
+
+
+
+
+
+
+
+
+using System;
+using System.Collections.Generic;
+
+class OrdenarLista
+{
+    public List<int> Ordenar(List<int> lista)
+    {
+        lista.Sort();
+        return lista;
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        List<int> nums = new List<int>();
+        Console.Write("Cuantos numeros?: ");
+        int n = int.Parse(Console.ReadLine());
+
+        for (int i = 0; i < n; i++)
+        {
+            nums.Add(int.Parse(Console.ReadLine()));
+        }
+
+        var ord = new OrdenarLista();
+        List<int> sorted = ord.Ordenar(nums);
+        Console.WriteLine("Ordenados:");
+        sorted.ForEach(Console.WriteLine);
+    }
+}
+
+
+
+
+
+
