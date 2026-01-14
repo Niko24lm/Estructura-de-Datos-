@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\ejemplo\semana6\ejercicios1y2\bin\Debug\net10.0\ejercicios1y2.exe
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\ejemplo\semana6\ejercicios1y2\bin\Debug\net10.0\ejercicios1y2.deps.json
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\ejemplo\semana6\ejercicios1y2\bin\Debug\net10.0\ejercicios1y2.runtimeconfig.json
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\ejemplo\semana6\ejercicios1y2\bin\Debug\net10.0\ejercicios1y2.dll
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\ejemplo\semana6\ejercicios1y2\bin\Debug\net10.0\ejercicios1y2.pdb
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\ejemplo\semana6\ejercicios1y2\obj\Debug\net10.0\ejercicios1y2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\ejemplo\semana6\ejercicios1y2\obj\Debug\net10.0\ejercicios1y2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\ejemplo\semana6\ejercicios1y2\obj\Debug\net10.0\ejercicios1y2.AssemblyInfo.cs
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\ejemplo\semana6\ejercicios1y2\obj\Debug\net10.0\ejercicios1y2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\ejemplo\semana6\ejercicios1y2\obj\Debug\net10.0\ejercicios1y2.sourcelink.json
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\ejemplo\semana6\ejercicios1y2\obj\Debug\net10.0\ejercicios1y2.dll
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\ejemplo\semana6\ejercicios1y2\obj\Debug\net10.0\refint\ejercicios1y2.dll
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\ejemplo\semana6\ejercicios1y2\obj\Debug\net10.0\ejercicios1y2.pdb
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\ejemplo\semana6\ejercicios1y2\obj\Debug\net10.0\ejercicios1y2.genruntimeconfig.cache
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\ejemplo\semana6\ejercicios1y2\obj\Debug\net10.0\ref\ejercicios1y2.dll
