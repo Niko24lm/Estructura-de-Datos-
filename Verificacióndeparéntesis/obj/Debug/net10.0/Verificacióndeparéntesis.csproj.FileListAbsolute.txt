@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\Verificacióndeparéntesis\obj\Debug\net10.0\Verificacióndeparéntesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\Verificacióndeparéntesis\obj\Debug\net10.0\Verificacióndeparéntesis.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\Verificacióndeparéntesis\obj\Debug\net10.0\Verificacióndeparéntesis.AssemblyInfo.cs
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\Verificacióndeparéntesis\obj\Debug\net10.0\Verificacióndeparéntesis.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\Verificacióndeparéntesis\obj\Debug\net10.0\Verificacióndeparéntesis.sourcelink.json
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\Verificacióndeparéntesis\bin\Debug\net10.0\Verificacióndeparéntesis.exe
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\Verificacióndeparéntesis\bin\Debug\net10.0\Verificacióndeparéntesis.deps.json
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\Verificacióndeparéntesis\bin\Debug\net10.0\Verificacióndeparéntesis.runtimeconfig.json
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\Verificacióndeparéntesis\bin\Debug\net10.0\Verificacióndeparéntesis.dll
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\Verificacióndeparéntesis\bin\Debug\net10.0\Verificacióndeparéntesis.pdb
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\Verificacióndeparéntesis\obj\Debug\net10.0\Verificacióndeparéntesis.dll
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\Verificacióndeparéntesis\obj\Debug\net10.0\refint\Verificacióndeparéntesis.dll
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\Verificacióndeparéntesis\obj\Debug\net10.0\Verificacióndeparéntesis.pdb
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\Verificacióndeparéntesis\obj\Debug\net10.0\Verificacióndeparéntesis.genruntimeconfig.cache
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\Verificacióndeparéntesis\obj\Debug\net10.0\ref\Verificacióndeparéntesis.dll

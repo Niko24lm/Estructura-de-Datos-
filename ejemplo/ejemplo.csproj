@@ -1,10 +1,113 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+﻿using System;
+using System.Collections.Generic;
 
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>net10.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
+class BalanceoParentesis
+{
+    /// <summary>
+    /// Verifica si los paréntesis, llaves y corchetes están balanceados
+    /// </summary>
+    /// <param name="expresion">Expresión matemática a evaluar</param>
+    /// <returns>true si está balanceada, false en caso contrario</returns>
+    static bool EstaBalanceada(string expresion)
+    {
+        Stack<char> pila = new Stack<char>();
 
-</Project>
+        foreach (char c in expresion)
+        {
+            // Si es símbolo de apertura, se apila
+            if (c == '(' || c == '{' || c == '[')
+            {
+                pila.Push(c);
+            }
+            // Si es símbolo de cierre, se verifica
+            else if (c == ')' || c == '}' || c == ']')
+            {
+                if (pila.Count == 0)
+                    return false;
+
+                char tope = pila.Pop();
+
+                if (!EsParCorrecto(tope, c))
+                    return false;
+            }
+        }
+
+        // Si la pila está vacía, está balanceada
+        return pila.Count == 0;
+    }
+
+    /// <summary>
+    /// Verifica si los símbolos son un par correcto
+    /// </summary>
+    static bool EsParCorrecto(char apertura, char cierre)
+    {
+        return (apertura == '(' && cierre == ')') ||
+               (apertura == '{' && cierre == '}') ||
+               (apertura == '[' && cierre == ']');
+    }
+
+    static void Main()
+    {
+        string expresion = "{7 + (8 * 5) - [(9 - 7) + (4 + 1)]}";
+
+        if (EstaBalanceada(expresion))
+            Console.WriteLine("Fórmula balanceada.");
+        else
+            Console.WriteLine("Fórmula NO balanceada.");
+    }
+}
+Fórmula balanceada.
+using System;
+using System.Collections.Generic;
+
+class TorresDeHanoi
+{
+    static int movimientos = 0;
+
+    /// <summary>
+    /// Resuelve el problema de las Torres de Hanoi usando pilas
+    /// </summary>
+    static void Hanoi(int n, Stack<int> origen, Stack<int> auxiliar, Stack<int> destino,
+                      string nombreOrigen, string nombreAuxiliar, string nombreDestino)
+    {
+        if (n == 1)
+        {
+            MoverDisco(origen, destino, nombreOrigen, nombreDestino);
+            return;
+        }
+
+        Hanoi(n - 1, origen, destino, auxiliar, nombreOrigen, nombreDestino, nombreAuxiliar);
+        MoverDisco(origen, destino, nombreOrigen, nombreDestino);
+        Hanoi(n - 1, auxiliar, origen, destino, nombreAuxiliar, nombreOrigen, nombreDestino);
+    }
+
+    /// <summary>
+    /// Mueve un disco entre torres y muestra el movimiento
+    /// </summary>
+    static void MoverDisco(Stack<int> origen, Stack<int> destino,
+                           string nombreOrigen, string nombreDestino)
+    {
+        int disco = origen.Pop();
+        destino.Push(disco);
+        movimientos++;
+        Console.WriteLine($"Movimiento {movimientos}: Disco {disco} de {nombreOrigen} a {nombreDestino}");
+    }
+
+    static void Main()
+    {
+        int numDiscos = 3;
+
+        Stack<int> torreA = new Stack<int>();
+        Stack<int> torreB = new Stack<int>();
+        Stack<int> torreC = new Stack<int>();
+
+        // Inicializar torre A
+        for (int i = numDiscos; i >= 1; i--)
+            torreA.Push(i);
+
+        Console.WriteLine("Resolución de las Torres de Hanoi:\n");
+        Hanoi(numDiscos, torreA, torreB, torreC, "A", "B", "C");
+
+        Console.WriteLine($"\nTotal de movimientos: {movimientos}");
+    }
+}

@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\ejemplo\obj\Debug\net10.0\ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\ejemplo\obj\Debug\net10.0\ejemplo.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\ejemplo\obj\Debug\net10.0\ejemplo.AssemblyInfo.cs
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\ejemplo\obj\Debug\net10.0\ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\ejemplo\obj\Debug\net10.0\ejemplo.sourcelink.json

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\ED\\Estructura-de-Datos-\\ejemplo\\ejemplo.csproj",
-      "projectName": "ejemplo",
-      "projectPath": "C:\\Users\\HP\\Desktop\\ED\\Estructura-de-Datos-\\ejemplo\\ejemplo.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\ED\\Estructura-de-Datos-\\Verificacióndeparéntesis\\Verificacióndeparéntesis.csproj",
+      "projectName": "Verificacióndeparéntesis",
+      "projectPath": "C:\\Users\\HP\\Desktop\\ED\\Estructura-de-Datos-\\Verificacióndeparéntesis\\Verificacióndeparéntesis.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\ED\\Estructura-de-Datos-\\ejemplo\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\ED\\Estructura-de-Datos-\\Verificacióndeparéntesis\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

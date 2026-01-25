@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\torresdehanoi\bin\Debug\net10.0\torresdehanoi.exe
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\torresdehanoi\bin\Debug\net10.0\torresdehanoi.deps.json
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\torresdehanoi\bin\Debug\net10.0\torresdehanoi.runtimeconfig.json
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\torresdehanoi\bin\Debug\net10.0\torresdehanoi.dll
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\torresdehanoi\bin\Debug\net10.0\torresdehanoi.pdb
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\torresdehanoi\obj\Debug\net10.0\torresdehanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\torresdehanoi\obj\Debug\net10.0\torresdehanoi.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\torresdehanoi\obj\Debug\net10.0\torresdehanoi.AssemblyInfo.cs
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\torresdehanoi\obj\Debug\net10.0\torresdehanoi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\torresdehanoi\obj\Debug\net10.0\torresdehanoi.sourcelink.json
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\torresdehanoi\obj\Debug\net10.0\torresdehanoi.dll
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\torresdehanoi\obj\Debug\net10.0\refint\torresdehanoi.dll
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\torresdehanoi\obj\Debug\net10.0\torresdehanoi.pdb
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\torresdehanoi\obj\Debug\net10.0\torresdehanoi.genruntimeconfig.cache
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\torresdehanoi\obj\Debug\net10.0\ref\torresdehanoi.dll
