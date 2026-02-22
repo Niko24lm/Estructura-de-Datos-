@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\operacionesdeteoríadeconjuntos\bin\Debug\net10.0\operacionesdeteoríadeconjuntos.exe
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\operacionesdeteoríadeconjuntos\bin\Debug\net10.0\operacionesdeteoríadeconjuntos.deps.json
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\operacionesdeteoríadeconjuntos\bin\Debug\net10.0\operacionesdeteoríadeconjuntos.runtimeconfig.json
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\operacionesdeteoríadeconjuntos\bin\Debug\net10.0\operacionesdeteoríadeconjuntos.dll
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\operacionesdeteoríadeconjuntos\bin\Debug\net10.0\operacionesdeteoríadeconjuntos.pdb
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\operacionesdeteoríadeconjuntos\obj\Debug\net10.0\operacionesdeteoríadeconjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\operacionesdeteoríadeconjuntos\obj\Debug\net10.0\operacionesdeteoríadeconjuntos.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\operacionesdeteoríadeconjuntos\obj\Debug\net10.0\operacionesdeteoríadeconjuntos.AssemblyInfo.cs
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\operacionesdeteoríadeconjuntos\obj\Debug\net10.0\operacionesdeteoríadeconjuntos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\operacionesdeteoríadeconjuntos\obj\Debug\net10.0\operacionesdeteoríadeconjuntos.sourcelink.json
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\operacionesdeteoríadeconjuntos\obj\Debug\net10.0\operacionesdeteoríadeconjuntos.dll
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\operacionesdeteoríadeconjuntos\obj\Debug\net10.0\refint\operacionesdeteoríadeconjuntos.dll
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\operacionesdeteoríadeconjuntos\obj\Debug\net10.0\operacionesdeteoríadeconjuntos.pdb
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\operacionesdeteoríadeconjuntos\obj\Debug\net10.0\operacionesdeteoríadeconjuntos.genruntimeconfig.cache
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\operacionesdeteoríadeconjuntos\obj\Debug\net10.0\ref\operacionesdeteoríadeconjuntos.dll
