@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\diccionario\bin\Debug\net10.0\diccionario.exe
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\diccionario\bin\Debug\net10.0\diccionario.deps.json
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\diccionario\bin\Debug\net10.0\diccionario.runtimeconfig.json
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\diccionario\bin\Debug\net10.0\diccionario.dll
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\diccionario\bin\Debug\net10.0\diccionario.pdb
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\diccionario\obj\Debug\net10.0\diccionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\diccionario\obj\Debug\net10.0\diccionario.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\diccionario\obj\Debug\net10.0\diccionario.AssemblyInfo.cs
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\diccionario\obj\Debug\net10.0\diccionario.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\diccionario\obj\Debug\net10.0\diccionario.sourcelink.json
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\diccionario\obj\Debug\net10.0\diccionario.dll
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\diccionario\obj\Debug\net10.0\refint\diccionario.dll
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\diccionario\obj\Debug\net10.0\diccionario.pdb
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\diccionario\obj\Debug\net10.0\diccionario.genruntimeconfig.cache
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\diccionario\obj\Debug\net10.0\ref\diccionario.dll
