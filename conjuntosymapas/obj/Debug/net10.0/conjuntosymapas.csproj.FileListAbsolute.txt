@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\conjuntosymapas\bin\Debug\net10.0\conjuntosymapas.exe
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\conjuntosymapas\bin\Debug\net10.0\conjuntosymapas.deps.json
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\conjuntosymapas\bin\Debug\net10.0\conjuntosymapas.runtimeconfig.json
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\conjuntosymapas\bin\Debug\net10.0\conjuntosymapas.dll
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\conjuntosymapas\bin\Debug\net10.0\conjuntosymapas.pdb
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\conjuntosymapas\obj\Debug\net10.0\conjuntosymapas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\conjuntosymapas\obj\Debug\net10.0\conjuntosymapas.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\conjuntosymapas\obj\Debug\net10.0\conjuntosymapas.AssemblyInfo.cs
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\conjuntosymapas\obj\Debug\net10.0\conjuntosymapas.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\conjuntosymapas\obj\Debug\net10.0\conjuntosymapas.sourcelink.json
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\conjuntosymapas\obj\Debug\net10.0\conjuntosymapas.dll
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\conjuntosymapas\obj\Debug\net10.0\refint\conjuntosymapas.dll
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\conjuntosymapas\obj\Debug\net10.0\conjuntosymapas.pdb
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\conjuntosymapas\obj\Debug\net10.0\conjuntosymapas.genruntimeconfig.cache
+C:\Users\HP\Desktop\ED\Estructura-de-Datos-\conjuntosymapas\obj\Debug\net10.0\ref\conjuntosymapas.dll
